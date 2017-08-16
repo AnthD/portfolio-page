@@ -1,0 +1,30 @@
+body {
+  background-color: #fff;
+}
+
+/*==============================================================
+                  TIMER CONTAINER 
+===============================================================*/
+div.timelineC {
+  background: #0A2933;
+}
+div.timelineC div.page-header {
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid #eee;
+}
+div.timelineC div.page-header h2.sub-heading {
+  color: #fff;
+  text-align: center;
+}
+
+  /*==============================================================
+               Skills CONTAINER 
+===============================================================*/
+div.skillsC header {
+  height: 100vh;
+}
+
+/* skillsC // */
+
+/*# sourceMappingURL=style.css.map */
