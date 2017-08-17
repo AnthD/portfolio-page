@@ -18,7 +18,7 @@ div.timelineC div.page-header h2.sub-heading {
   text-align: center;
 }
 
-  /*==============================================================
+/*==============================================================
                Skills CONTAINER 
 ===============================================================*/
 div.skillsC header {
@@ -26,5 +26,19 @@ div.skillsC header {
 }
 
 /* skillsC // */
+/*==============================================================
+               BACKGROUND VIDEO 
+===============================================================*/
+video.fullscreen {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translate(-50%, -50%);
+}
 
 /*# sourceMappingURL=style.css.map */
